@@ -1,3 +1,27 @@
+-- Adminer 4.6.0 MySQL dump
+
+SET NAMES utf8;
+SET time_zone = '+00:00';
+SET foreign_key_checks = 0;
+SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
+
+DROP TABLE IF EXISTS `tags`;
+CREATE TABLE `tags` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `created` datetime NOT NULL,
+  `modified` datetime NOT NULL,
+  `name` varchar(125) NOT NULL,
+  `description` text NOT NULL,
+  `domain_id` int(10) unsigned NOT NULL,
+  `parent_id` int(10) unsigned DEFAULT NULL,
+  `lft` int(10) unsigned NOT NULL,
+  `rght` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `domain_id_name` (`domain_id`,`name`),
+  KEY `parent_id` (`parent_id`),
+  KEY `lft_rght` (`lft`,`rght`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
 INSERT INTO `tags` (`id`, `created`, `modified`, `name`, `description`, `domain_id`, `parent_id`, `lft`, `rght`) VALUES
 (1,	'2012-03-08 17:22:48',	'2013-02-01 16:55:47',	'Beschrijvende statistiek',	'Beschrijvende statistiek',	1,	NULL,	1,	100),
 (2,	'2012-03-08 17:22:48',	'2013-02-01 16:55:47',	'Kansrekening',	'Kansrekening',	2,	NULL,	101,	156),
@@ -180,3 +204,5 @@ INSERT INTO `tags` (`id`, `created`, `modified`, `name`, `description`, `domain_
 (205,	'2013-02-01 16:55:00',	'2013-02-01 16:55:48',	'UTwente (met R gegenereerd)',	'Met R gegenereerde items op grond van items van UTwente',	1,	166,	275,	276),
 (206,	'2013-02-01 16:55:00',	'2013-02-01 16:55:48',	'UTwente (met R gegenereerd)',	'Met R gegenereerde items op grond van items van UTwente',	2,	167,	305,	306),
 (207,	'2013-02-01 16:55:00',	'2013-02-01 16:55:48',	'UTwente (met R gegenereerd)',	'Met R gegenereerde items op grond van items van UTwente',	3,	168,	335,	336);
+
+-- 2018-02-09 09:37:29
