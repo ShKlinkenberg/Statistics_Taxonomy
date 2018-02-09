@@ -100,3 +100,51 @@ K/V/G classificatie
     * Uniforme verdeling
 * Specifieke vaardigheden
     * Het gebruik van statistieknotaties
+
+## Inferentiële statistiek
+
+* Toetstheorie
+    * Hypotheses (nul en alternatief; één- en tweezijdig
+    * Toetsingsgrootheid (tgh)
+    * Kansverdeling van tgh onder H0
+    * Risico alpha of beta
+    * Power en steekproefomvang
+    * Kritieke waarde / kritiek gebied
+    * p-waarde
+    * Statistische significantie, H0 wel/niet verwerpen,
+* Z-toets
+    * (normaal verdeeld, mu onbekend, sigma bekend)
+* T-Toetsen
+    * 1 steekproef T-toets
+    * T-verdeling, vrijheidsgraden
+    * Gepaarde T toets
+    * Relatie met 1 steekproef T-toets
+    * T toets voor 2 onafh. Steekproeven
+    * Gepoolde variantieschatter
+    * Levene's test?
+* Dichotome data
+    * Binomiaaltoets (Z-benadering)
+    * Pearson's Chi-kwadraat
+* Non-parametrische toetsen
+    * Mann-Whitney / Wilcoxon Rank Sum test
+    * Wilcoxon (Matched Pairs) Signed Rank test
+* Puntschatting
+    * Voor gemiddelde
+    * Voor variantie
+    * Voor proportie
+* Intervalschatting
+    * Betrouwbaarheidsinterval voor mu, Interpretatie
+    * Betrouwbaarheidsinterval voor mu, Coverage (95%, 9
+    * Betrouwbaarheidsinterval voor mu, Relatie met toet
+    * Betrouwbaarheidsinterval voor mu, Eénzijdig bhi?
+    * Bhi voor proportie pi
+* Correlatie (inferentiële stat.)
+    * Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa
+* Regressie (inferentiële stat.)
+    * Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling
+    * Toets (H0 : ß1 = 0), Relatie met toets voor ? = 0.
+    * Toets (H0 : ß1 = 0), Bhi en predictieinterval voor
+* Anova
+    * Oneway, ANOVA-table
+    * Oneway, F-verdeling
+    * Twoway + interactie
