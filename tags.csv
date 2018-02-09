@@ -1,0 +1,182 @@
+﻿id,created,modified,name,description,domain_id,parent_id,lft,rght
+1,2012-03-08 17:22:48,2013-02-01 16:55:47,Beschrijvende statistiek,Beschrijvende statistiek,1,,1,100
+2,2012-03-08 17:22:48,2013-02-01 16:55:47,Kansrekening,Kansrekening,2,,101,156
+3,2012-03-08 17:22:48,2013-02-01 16:55:48,Inferentiële statistiek,Inferentiële statistiek,3,,157,248
+4,2012-03-08 17:23:20,2013-02-01 16:55:47,Kengetallen,Kengetallen,1,1,2,23
+5,2012-03-08 17:23:20,2013-02-01 16:55:47,Grafieken,Grafieken,1,1,24,39
+6,2012-03-08 17:23:20,2013-02-01 16:55:47,Meetniveaus,Meetniveaus,1,1,40,51
+7,2012-03-08 17:23:20,2013-02-01 16:55:47,Outliers,Outliers,1,1,52,59
+8,2012-03-08 17:23:20,2013-02-01 16:55:47,Correlatie (beschrijvende stat.),Correlatie (beschrijvende stat.),1,1,60,77
+9,2012-03-08 17:23:20,2013-02-01 16:55:47,Regressie (beschrijvende stat.),Regressie (beschrijvende stat.),1,1,78,99
+10,2012-03-08 17:23:29,2013-02-01 16:55:47,Locatiematen,Locatiematen,1,4,3,4
+11,2012-03-08 17:23:29,2013-02-01 16:55:47,Gemiddelde,Gemiddelde,1,4,5,6
+12,2012-03-08 17:23:29,2013-02-01 16:55:47,Mediaan,Mediaan,1,4,7,8
+13,2012-03-08 17:23:29,2013-02-01 16:55:47,Modus,Modus,1,4,9,10
+14,2012-03-08 17:23:29,2013-02-01 16:55:47,Spreidingsmaten,Spreidingsmaten,1,4,11,12
+15,2012-03-08 17:23:29,2013-02-01 16:55:47,Variantie,Variantie,1,4,13,14
+16,2012-03-08 17:23:29,2013-02-01 16:55:47,Standaarddeviatie,Standaarddeviatie,1,4,15,16
+17,2012-03-08 17:23:29,2013-02-01 16:55:47,Inter Quartile Range,Inter Quartile Range,1,4,17,18
+18,2012-03-08 17:23:29,2013-02-01 16:55:47,Spreidingsbreedte,Spreidingsbreedte,1,4,19,20
+19,2012-03-08 17:23:29,2013-02-01 16:55:47,Minimum+maximum,Minimum+maximum,1,4,21,22
+20,2012-03-08 17:23:38,2013-02-01 16:55:47,Histogram,Histogram,1,5,25,26
+21,2012-03-08 17:23:38,2013-02-01 16:55:47,Staafdiagram,Staafdiagram,1,5,27,28
+22,2012-03-08 17:23:38,2013-02-01 16:55:47,Boxplot,Boxplot,1,5,29,30
+23,2012-03-08 17:23:38,2013-02-01 16:55:47,Spreidingsdiagram,Spreidingsdiagram,1,5,31,32
+24,2012-03-08 17:23:48,2013-02-01 16:55:47,Nominaal,Nominaal,1,6,41,42
+25,2012-03-08 17:23:48,2013-02-01 16:55:47,Ordinaal,Ordinaal,1,6,43,44
+26,2012-03-08 17:23:48,2013-02-01 16:55:47,Interval,Interval,1,6,45,46
+28,2012-03-08 17:23:48,2013-02-01 16:55:47,Kwalitatief/kwantitatief,Kwalitatief/kwantitatief,1,6,47,48
+29,2012-03-08 17:23:48,2013-02-01 16:55:47,Continu/discreet,Continu/discreet,1,6,49,50
+30,2012-03-08 17:23:58,2013-02-01 16:55:47,Interpretatie intercept en r.c.,Interpretatie intercept en r.c.,1,9,79,80
+31,2012-03-08 17:23:58,2013-02-01 16:55:47,Formules,Formules,1,9,81,82
+32,2012-03-08 17:23:58,2013-02-01 16:55:47,Regressielijn,Regressielijn,1,9,83,84
+33,2012-03-08 17:23:58,2013-02-01 16:55:47,Lineair verband (regressie),Lineair verband (regressie),1,9,85,86
+34,2012-03-08 17:23:58,2013-02-01 16:55:47,Schatten regressievergelijking,Schatten regressievergelijking,1,9,87,88
+35,2012-03-08 17:23:58,2013-02-01 16:55:47,Voorspelde Y bij gegeven X,Voorspelde Y bij gegeven X,1,9,89,90
+36,2012-03-08 17:23:58,2013-02-01 16:55:47,Invloed van extra punt op regressie vgl.,Invloed van extra punt op regressie vgl.,1,9,91,92
+37,2012-03-08 17:23:58,2013-02-01 16:55:47,Verband met corr coeff,Verband met corr coeff,1,9,93,94
+38,2012-03-08 17:23:58,2013-02-01 16:55:47,Verschil met corr coeff,Verschil met corr coeff,1,9,95,96
+39,2012-03-08 17:23:58,2013-02-01 16:55:47,Populatieverdelingen,Populatieverdelingen,1,9,97,98
+40,2012-03-08 17:24:07,2013-02-01 16:55:47,Pearson coefficient,Pearson coefficient,1,8,61,62
+41,2012-03-08 17:24:08,2013-02-01 16:55:47,Formule,Formule,1,8,63,64
+42,2012-03-08 17:24:08,2013-02-01 16:55:47,Interpretatie r,Interpretatie r,1,8,65,66
+43,2012-03-08 17:24:08,2013-02-01 16:55:47,Lineair verband (correlatie),Lineair verband (correlatie),1,8,67,68
+44,2012-03-08 17:24:08,2013-02-01 16:55:47,Schatten uit spreidingsdiagram,Schatten uit spreidingsdiagram,1,8,69,70
+45,2012-03-08 17:24:08,2013-02-01 16:55:47,Gestandaardiseerde variabelen,Gestandaardiseerde variabelen,1,8,71,72
+46,2012-03-08 17:24:08,2013-02-01 16:55:47,Invloed van extra punt,Invloed van extra punt,1,8,73,74
+47,2012-03-08 17:24:16,2013-02-01 16:55:47,Definitie,Definitie,1,7,53,54
+48,2012-03-08 17:24:16,2013-02-01 16:55:47,Behandeling,Behandeling,1,7,55,56
+49,2012-03-08 17:24:16,2013-02-01 16:55:47,Invloed op kengetallen,Invloed op kengetallen,1,7,57,58
+50,2012-03-08 17:26:37,2013-02-01 16:55:47,Kansdefinities,Kansdefinities,2,2,102,113
+51,2012-03-08 17:26:37,2013-02-01 16:55:47,Kansrekening (ond.),Kansrekening (ond.),2,2,114,129
+52,2012-03-08 17:26:37,2013-02-01 16:55:47,Kansverdeling,Kansverdeling,2,2,130,151
+53,2012-03-08 17:26:37,2013-02-01 16:55:48,Specifieke vaardigheden,Specifieke vaardigheden,2,2,152,155
+54,2012-03-08 17:26:46,2013-02-01 16:55:48,Het gebruik van statistieknotaties,Het gebruik van statistieknotaties,2,53,153,154
+55,2012-03-08 17:26:54,2013-02-01 16:55:47,Normale verdeling,Normale verdeling,2,52,131,132
+56,2012-03-08 17:26:54,2013-02-01 16:55:47,"Verwachtingswaarde van (discrete) toevalvariabele;","Verwachtingswaarde van (discrete) toevalvariabele; regels voor verwachtingswaarden",2,52,133,134
+57,2012-03-08 17:26:54,2013-02-01 16:55:47,"Variantie van (discrete) toevalsvariabele; regels ","Variantie van (discrete) toevalsvariabele; regels voor varianties; SD",2,52,135,136
+58,2012-03-08 17:26:54,2013-02-01 16:55:48,Voorwaardelijke kansen,Voorwaardelijke kansen,2,52,137,138
+59,2012-03-08 17:26:54,2013-02-01 16:55:48,Stelling van Bayes,Stelling van Bayes,2,52,139,140
+60,2012-03-08 17:26:54,2013-02-01 16:55:48,Binomiale verdeling,Binomiale verdeling,2,52,141,142
+61,2012-03-08 17:26:54,2013-02-01 16:55:48,Normale benadering binomiale verdeling (niet: cont,Normale benadering binomiale verdeling (niet: continuïteitscorrectie),2,52,143,144
+62,2012-03-08 17:26:54,2013-02-01 16:55:48,Kansverdeling steekproefgemiddelde (onafhankelijke,Kansverdeling steekproefgemiddelde (onafhankelijke steekproef uit verdeling),2,52,145,146
+63,2012-03-08 17:26:54,2013-02-01 16:55:48,Centrale limietstelling,Centrale limietstelling,2,52,147,148
+64,2012-03-08 17:26:54,2013-02-01 16:55:48,Uniforme verdeling,Uniforme verdeling,2,52,149,150
+65,2012-03-08 17:27:05,2013-02-01 16:55:47,Discrete stochastische variabelen (elementair begr,Discrete stochastische variabelen (elementair begrip),2,51,115,116
+66,2012-03-08 17:27:05,2013-02-01 16:55:47,Continue stochastische variabelen,Continue stochastische variabelen,2,51,117,118
+67,2012-03-08 17:27:05,2013-02-01 16:55:47,Complementregel,Complementregel,2,51,119,120
+68,2012-03-08 17:27:05,2013-02-01 16:55:47,Somregel,Somregel,2,51,121,122
+69,2012-03-08 17:27:05,2013-02-01 16:55:47,Productregel,Productregel,2,51,123,124
+70,2012-03-08 17:27:05,2013-02-01 16:55:47,Optelregel voor kans op vereniging van twee gebeur,Optelregel voor kans op vereniging van twee gebeurtenissen (algemeen),2,51,125,126
+71,2012-03-08 17:27:14,2013-02-01 16:55:47,Klassieke kansdefinitie,Klassieke kansdefinitie,2,50,103,104
+72,2012-03-08 17:27:14,2013-02-01 16:55:47,Relatieve frequentie kansdefinitie,Relatieve frequentie kansdefinitie,2,50,105,106
+73,2012-03-08 17:27:14,2013-02-01 16:55:47,Uitkomstenruimte (even waarschijnlijke uitkomsten),Uitkomstenruimte (even waarschijnlijke uitkomsten),2,50,107,108
+74,2012-03-08 17:27:14,2013-02-01 16:55:47,Gebeurtenis,Gebeurtenis,2,50,109,110
+75,2012-03-08 17:27:14,2013-02-01 16:55:47,Onafhankelijkheid van twee of meer gebeurtenissen,Onafhankelijkheid van twee of meer gebeurtenissen,2,50,111,112
+76,2012-03-08 17:27:54,2013-02-01 16:55:48,Toetstheorie,Toetstheorie,3,3,158,175
+77,2012-03-08 17:27:54,2013-02-01 16:55:48,Z-toets,Z-toets,3,3,176,179
+78,2012-03-08 17:27:54,2013-02-01 16:55:48,T-Toetsen,T-Toetsen,3,3,180,195
+79,2012-03-08 17:27:54,2013-02-01 16:55:48,Dichotome data,Dichotome data,3,3,196,201
+80,2012-03-08 17:27:54,2013-02-01 16:55:48,Non-parametrische toetsen,Non-parametrische toetsen,3,3,202,207
+81,2012-03-08 17:27:54,2013-02-01 16:55:48,Puntschatting,Puntschatting,3,3,208,215
+82,2012-03-08 17:27:54,2013-02-01 16:55:48,Intervalschatting,Intervalschatting,3,3,216,227
+83,2012-03-08 17:27:54,2013-02-01 16:55:48,Correlatie (inferentiële stat.),Correlatie (inferentiële stat.),3,3,228,231
+84,2012-03-08 17:27:54,2013-02-01 16:55:48,Regressie (inferentiële stat.),Regressie (inferentiële stat.),3,3,232,239
+85,2012-03-08 17:27:54,2013-02-01 16:55:48,Anova,Anova,3,3,240,247
+86,2012-03-08 17:28:02,2013-02-01 16:55:48,"Oneway, ANOVA-table","Oneway, ANOVA-table",3,85,241,242
+87,2012-03-08 17:28:02,2013-02-01 16:55:48,"Oneway, F-verdeling","Oneway, F-verdeling",3,85,243,244
+88,2012-03-08 17:28:02,2013-02-01 16:55:48,Twoway + interactie,Twoway + interactie,3,85,245,246
+89,2012-03-08 17:28:11,2013-02-01 16:55:48,"Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling","Toets (H0 : ß1 = 0), Tgh m.b.v. T-verdeling",3,84,233,234
+90,2012-03-08 17:28:11,2013-02-01 16:55:48,"Toets (H0 : ß1 = 0), Relatie met toets voor ? = 0.","Toets (H0 : ß1 = 0), Relatie met toets voor ? = 0.",3,84,235,236
+91,2012-03-08 17:28:11,2013-02-01 16:55:48,"Toets (H0 : ß1 = 0), Bhi en predictieinterval voor","Toets (H0 : ß1 = 0), Bhi en predictieinterval voor Y bij gegeven X-waarde",3,84,237,238
+92,2012-03-08 17:28:24,2013-02-01 16:55:48,"Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waa","Toets (H0: ? = 0), Tgh m.b.v. T-verdeling en p-waarde alleen via ß1",3,83,229,230
+93,2012-03-08 17:28:32,2013-02-01 16:55:48,"Betrouwbaarheidsinterval voor mu, Interpretatie","Betrouwbaarheidsinterval voor mu, Interpretatie",3,82,217,218
+94,2012-03-08 17:28:32,2013-02-01 16:55:48,"Betrouwbaarheidsinterval voor mu, Coverage (95%, 9","Betrouwbaarheidsinterval voor mu, Coverage (95%, 99%)",3,82,219,220
+95,2012-03-08 17:28:32,2013-02-01 16:55:48,"Betrouwbaarheidsinterval voor mu, Relatie met toet","Betrouwbaarheidsinterval voor mu, Relatie met toets (H0-waarde wel/niet in bhi)",3,82,221,222
+96,2012-03-08 17:28:32,2013-02-01 16:55:48,"Betrouwbaarheidsinterval voor mu, Eénzijdig bhi?","Betrouwbaarheidsinterval voor mu, Eénzijdig bhi?",3,82,223,224
+97,2012-03-08 17:28:32,2013-02-01 16:55:48,Bhi voor proportie pi,Bhi voor proportie pi,3,82,225,226
+98,2012-03-08 17:28:44,2013-02-01 16:55:48,Voor gemiddelde,Voor gemiddelde,3,81,209,210
+99,2012-03-08 17:28:44,2013-02-01 16:55:48,Voor variantie,Voor variantie,3,81,211,212
+100,2012-03-08 17:28:44,2013-02-01 16:55:48,Voor proportie,Voor proportie,3,81,213,214
+101,2012-03-08 17:28:53,2013-02-01 16:55:48,Mann-Whitney / Wilcoxon Rank Sum test,Mann-Whitney / Wilcoxon Rank Sum test,3,80,203,204
+102,2012-03-08 17:28:53,2013-02-01 16:55:48,Wilcoxon (Matched Pairs) Signed Rank test,Wilcoxon (Matched Pairs) Signed Rank test,3,80,205,206
+103,2012-03-08 17:29:02,2013-02-01 16:55:48,Binomiaaltoets (Z-benadering),Binomiaaltoets (Z-benadering),3,79,197,198
+105,2012-03-08 17:29:02,2013-02-01 16:55:48,Pearson's Chi-kwadraat,Pearson's Chi-kwadraat,3,79,199,200
+108,2012-03-08 17:29:15,2013-02-01 16:55:48,1 steekproef T-toets,1 steekproef T-toets,3,78,181,182
+109,2012-03-08 17:29:15,2013-02-01 16:55:48,"T-verdeling, vrijheidsgraden","T-verdeling, vrijheidsgraden",3,78,183,184
+110,2012-03-08 17:29:15,2013-02-01 16:55:48,Gepaarde T toets,Gepaarde T toets,3,78,185,186
+111,2012-03-08 17:29:15,2013-02-01 16:55:48,Relatie met 1 steekproef T-toets,Relatie met 1 steekproef T-toets,3,78,187,188
+112,2012-03-08 17:29:15,2013-02-01 16:55:48,T toets voor 2 onafh. Steekproeven,T toets voor 2 onafh. Steekproeven,3,78,189,190
+114,2012-03-08 17:29:15,2013-02-01 16:55:48,Gepoolde variantieschatter,Gepoolde variantieschatter,3,78,191,192
+115,2012-03-08 17:29:15,2013-02-01 16:55:48,Levene's test?,Levene's test?,3,78,193,194
+116,2012-03-08 17:29:22,2013-02-01 16:55:48,"(normaal verdeeld, mu onbekend, sigma bekend)","(normaal verdeeld, mu onbekend, sigma bekend)",3,77,177,178
+117,2012-03-08 17:29:32,2013-02-01 16:55:48,"Hypotheses (nul en alternatief; één- en tweezijdig","Hypotheses (nul en alternatief; één- en tweezijdig)",3,76,159,160
+118,2012-03-08 17:29:32,2013-02-01 16:55:48,Toetsingsgrootheid (tgh),Toetsingsgrootheid (tgh),3,76,161,162
+119,2012-03-08 17:29:32,2013-02-01 16:55:48,Kansverdeling van tgh onder H0,Kansverdeling van tgh onder H0,3,76,163,164
+120,2012-03-08 17:29:32,2013-02-01 16:55:48,Risico alpha of beta,Risico alpha of beta (fout van de eerste of tweede soort),3,76,165,166
+123,2012-03-08 17:29:32,2013-02-01 16:55:48,Power en steekproefomvang,Power en steekproefomvang,3,76,167,168
+124,2012-03-08 17:29:32,2013-02-01 16:55:48,Kritieke waarde / kritiek gebied,Kritieke waarde / kritiek gebied,3,76,169,170
+125,2012-03-08 17:29:32,2013-02-01 16:55:48,p-waarde,p-waarde,3,76,171,172
+126,2012-03-08 17:29:32,2013-02-01 16:55:48,"Statistische significantie, H0 wel/niet verwerpen,","Statistische significantie, H0 wel/niet verwerpen, conclusie in context",3,76,173,174
+142,2012-08-08 20:25:27,2013-02-01 16:55:47,Keuze grafiek,Keuze grafiek,1,5,33,34
+143,2012-09-07 10:47:47,2013-02-01 16:55:47,Opstelregel,Opstelregel,2,51,127,128
+144,2012-09-11 12:47:15,2013-02-01 16:55:47,Transformaties,Transformaties,1,5,35,36
+145,2012-09-11 12:47:46,2013-02-01 16:55:47,Scheve verdeling,Scheve verdeling,1,5,37,38
+146,2012-09-11 12:48:29,2013-02-01 16:55:47,Keuze regressie/correlatie,Keuze regressie/correlatie,1,8,75,76
+151,2013-02-01 16:54:59,2013-02-01 16:55:48,Bron,Bron van het item,1,,249,278
+152,2013-02-01 16:54:59,2013-02-01 16:55:48,Bron,Bron van het item,2,,279,308
+153,2013-02-01 16:54:59,2013-02-01 16:55:48,Bron,Bron van het item,3,,309,338
+154,2013-02-01 16:54:59,2013-02-01 16:55:48,K/V/G classificatie,K/V/G classificatie,1,,339,346
+155,2013-02-01 16:54:59,2013-02-01 16:55:48,K/V/G classificatie,K/V/G classificatie,2,,347,354
+156,2013-02-01 16:54:59,2013-02-01 16:55:48,K/V/G classificatie,K/V/G classificatie,3,,355,362
+157,2013-02-01 16:54:59,2013-02-01 16:55:48,UvA (bron),Universiteit van Amsterdam,1,151,250,255
+158,2013-02-01 16:54:59,2013-02-01 16:55:48,UvA (bron),Universiteit van Amsterdam,2,152,280,285
+159,2013-02-01 16:54:59,2013-02-01 16:55:48,UvA (bron),Universiteit van Amsterdam,3,153,310,315
+160,2013-02-01 16:54:59,2013-02-01 16:55:48,UTwente (bron),Universiteit Twente,1,151,256,265
+161,2013-02-01 16:54:59,2013-02-01 16:55:48,UTwente (bron),Universiteit Twente,2,152,286,295
+162,2013-02-01 16:54:59,2013-02-01 16:55:48,UTwente (bron),Universiteit Twente,3,153,316,325
+163,2013-02-01 16:54:59,2013-02-01 16:55:48,UMCU (bron),Universitair Medisch Centrum Utrecht,1,151,266,269
+164,2013-02-01 16:54:59,2013-02-01 16:55:48,UMCU (bron),Universitair Medisch Centrum Utrecht,2,152,296,299
+165,2013-02-01 16:54:59,2013-02-01 16:55:48,UMCU (bron),Universitair Medisch Centrum Utrecht,3,153,326,329
+166,2013-02-01 16:54:59,2013-02-01 16:55:48,R-gen,Met R gegenereerde items,1,151,270,277
+167,2013-02-01 16:54:59,2013-02-01 16:55:48,R-gen,Met R gegenereerde items,2,152,300,307
+168,2013-02-01 16:55:00,2013-02-01 16:55:48,R-gen,Met R gegenereerde items,3,153,330,337
+169,2013-02-01 16:55:00,2013-02-01 16:55:48,Oude tentamens (UvA),Oude tentamens,1,157,251,252
+170,2013-02-01 16:55:00,2013-02-01 16:55:48,Oude tentamens (UvA),Oude tentamens,2,158,281,282
+171,2013-02-01 16:55:00,2013-02-01 16:55:48,Oude tentamens (UvA),Oude tentamens,3,159,311,312
+172,2013-02-01 16:55:00,2013-02-01 16:55:48,Lourens Waldorp,Lourens Waldorp,1,157,253,254
+173,2013-02-01 16:55:00,2013-02-01 16:55:48,Lourens Waldorp,Lourens Waldorp,2,158,283,284
+174,2013-02-01 16:55:00,2013-02-01 16:55:48,Lourens Waldorp,Lourens Waldorp,3,159,313,314
+175,2013-02-01 16:55:00,2013-02-01 16:55:48,Eerste set kansrekening,Eerste set kansrekening,1,160,257,258
+176,2013-02-01 16:55:00,2013-02-01 16:55:48,Eerste set kansrekening,Eerste set kansrekening,2,161,287,288
+177,2013-02-01 16:55:00,2013-02-01 16:55:48,Eerste set kansrekening,Eerste set kansrekening,3,162,317,318
+178,2013-02-01 16:55:00,2013-02-01 16:55:48,Tweede set kansrekening,Tweede set kansrekening,1,160,259,260
+179,2013-02-01 16:55:00,2013-02-01 16:55:48,Tweede set kansrekening,Tweede set kansrekening,2,161,289,290
+180,2013-02-01 16:55:00,2013-02-01 16:55:48,Tweede set kansrekening,Tweede set kansrekening,3,162,319,320
+181,2013-02-01 16:55:00,2013-02-01 16:55:48,Derde set kansrekening,Derde set kansrekening,1,160,261,262
+182,2013-02-01 16:55:00,2013-02-01 16:55:48,Derde set kansrekening,Derde set kansrekening,2,161,291,292
+183,2013-02-01 16:55:00,2013-02-01 16:55:48,Derde set kansrekening,Derde set kansrekening,3,162,321,322
+184,2013-02-01 16:55:00,2013-02-01 16:55:48,Vierde set kansrekening,Vierde set kansrekening,1,160,263,264
+185,2013-02-01 16:55:00,2013-02-01 16:55:48,Vierde set kansrekening,Vierde set kansrekening,2,161,293,294
+186,2013-02-01 16:55:00,2013-02-01 16:55:48,Vierde set kansrekening,Vierde set kansrekening,3,162,323,324
+187,2013-02-01 16:55:00,2013-02-01 16:55:48,Oude tentamens (UMCU),Oude tentamens,1,163,267,268
+188,2013-02-01 16:55:00,2013-02-01 16:55:48,Oude tentamens (UMCU),Oude tentamens,2,164,297,298
+189,2013-02-01 16:55:00,2013-02-01 16:55:48,Oude tentamens (UMCU),Oude tentamens,3,165,327,328
+190,2013-02-01 16:55:00,2013-02-01 16:55:48,Kennisitem,Kennisitem,1,154,340,341
+191,2013-02-01 16:55:00,2013-02-01 16:55:48,Kennisitem,Kennisitem,2,155,348,349
+192,2013-02-01 16:55:00,2013-02-01 16:55:48,Kennisitem,Kennisitem,3,156,356,357
+193,2013-02-01 16:55:00,2013-02-01 16:55:48,Vaardigheidsitem,Vaardigheidsitem,1,154,342,343
+194,2013-02-01 16:55:00,2013-02-01 16:55:48,Vaardigheidsitem,Vaardigheidsitem,2,155,350,351
+195,2013-02-01 16:55:00,2013-02-01 16:55:48,Vaardigheidsitem,Vaardigheidsitem,3,156,358,359
+196,2013-02-01 16:55:00,2013-02-01 16:55:48,Gemengd item (kennis & vaardigheid),Gemengd item (kennis & vaardigheid),1,154,344,345
+197,2013-02-01 16:55:00,2013-02-01 16:55:48,Gemengd item (kennis & vaardigheid),Gemengd item (kennis & vaardigheid),2,155,352,353
+198,2013-02-01 16:55:00,2013-02-01 16:55:48,Gemengd item (kennis & vaardigheid),Gemengd item (kennis & vaardigheid),3,156,360,361
+199,2013-02-01 16:55:00,2013-02-01 16:55:48,UMCU (met R gegenereerd),Met R gegenereerde items op grond van UMCU items,1,166,271,272
+200,2013-02-01 16:55:00,2013-02-01 16:55:48,UMCU (met R gegenereerd),Met R gegenereerde items op grond van UMCU items,2,167,301,302
+201,2013-02-01 16:55:00,2013-02-01 16:55:48,UMCU (met R gegenereerd),Met R gegenereerde items op grond van UMCU items,3,168,331,332
+202,2013-02-01 16:55:00,2013-02-01 16:55:48,UVA (met R gegeneerd),Met R gegenereerde items op grond van UvA items,1,166,273,274
+203,2013-02-01 16:55:00,2013-02-01 16:55:48,UVA (met R gegeneerd),Met R gegenereerde items op grond van UvA items,2,167,303,304
+204,2013-02-01 16:55:00,2013-02-01 16:55:48,UVA (met R gegeneerd),Met R gegenereerde items op grond van UvA items,3,168,333,334
+205,2013-02-01 16:55:00,2013-02-01 16:55:48,UTwente (met R gegenereerd),Met R gegenereerde items op grond van items van UTwente,1,166,275,276
+206,2013-02-01 16:55:00,2013-02-01 16:55:48,UTwente (met R gegenereerd),Met R gegenereerde items op grond van items van UTwente,2,167,305,306
+207,2013-02-01 16:55:00,2013-02-01 16:55:48,UTwente (met R gegenereerd),Met R gegenereerde items op grond van items van UTwente,3,168,335,336
