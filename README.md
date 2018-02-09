@@ -1,6 +1,7 @@
 # Statistics Taxonomy
 
-Beschrijvende statistiek
+## Beschrijvende statistiek
+
 * Kengetallen
     * Locatiematen
     * Gemiddelde
@@ -69,3 +70,33 @@ K/V/G classificatie
 * Kennisitem
 * Vaardigheidsitem
 * Gemengd item (kennis & vaardigheid)
+
+## Kansrekening
+
+* Kansdefinities
+    * Klassieke kansdefinitie
+    * Relatieve frequentie kansdefinitie
+    * Uitkomstenruimte (even waarschijnlijke uitkomsten)
+    * Gebeurtenis
+    * Onafhankelijkheid van twee of meer gebeurtenissen
+* Kansrekening (ond.)
+    * Discrete stochastische variabelen (elementair begr
+    * Continue stochastische variabelen
+    * Complementregel
+    * Somregel
+    * Productregel
+    * Optelregel voor kans op vereniging van twee gebeur
+    * Opstelregel
+* Kansverdeling
+    * Normale verdeling
+    * Verwachtingswaarde van (discrete) toevalvariabele;
+    * Variantie van (discrete) toevalsvariabele; regels
+    * Voorwaardelijke kansen
+    * Stelling van Bayes
+    * Binomiale verdeling
+    * Normale benadering binomiale verdeling (niet: cont
+    * Kansverdeling steekproefgemiddelde (onafhankelijke
+    * Centrale limietstelling
+    * Uniforme verdeling
+* Specifieke vaardigheden
+    * Het gebruik van statistieknotaties
